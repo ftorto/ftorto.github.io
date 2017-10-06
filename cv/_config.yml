@@ -1,0 +1,31 @@
+
+title: My Resume
+url: 'http://ftorto.github.io'
+baseurl: '/cv' #change it according to your repository name
+
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2 #green
+#style: styles-3 #green
+#style: styles-4 # purple
+#style: styles-5 # yellow/orange
+style: styles-6 #blue/grey
+
+
+#Profile information
+name: Fabien TORTORA
+tagline: Software Engineer
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#sidebar links
+email: fabien.tortora@gmail.com
+phone:
+website: ftorto.github.io #do not add http://
+linkedin: ftorto
+github: ftorto
+twitter: '@ftorto'
+
+
+# Tracker
+analytics:
+#Update all the sections by editing the files inside _includes folder.
